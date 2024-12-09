@@ -4,4 +4,4 @@
 3. Unscented 3d -> 2D linear system projection
 
 ### TODO: 
-- [ ]Extended Kalman filter implementation
+- [ ] Extended Kalman filter implementation
